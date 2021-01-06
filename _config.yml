@@ -21,24 +21,24 @@ url: 'https://wwh329.github.io'
 
 author: wwh329                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/love.jpg   # support internet resources
 
 github:
   username: wwh329             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: none            # change to your twitter username
 
 social:
   name: wwh329                  # it will shows as the copyright owner in Footer
   email: 2245768037@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/wwh23     # change to your github homepage
+    - https://twitter.com/none      # change to your twitter homepage  
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.facebook.com/none
+    # - https://www.linkedin.com/in/none
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
